@@ -14,3 +14,6 @@ Register payments associated with reservations.
 Retrieve and manage information using the API.
 
 The system runs on port 4500, the database on 5500, and Adminer on 8000.
+
+The Dockerfile is in a repository at the following link:
+https://github.com/IvanCastillo37/DockerFile.gi
